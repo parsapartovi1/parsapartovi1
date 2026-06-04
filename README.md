@@ -3,11 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryyp_rp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]# 💫 About Me:
-🔭 I’m currently working on: Django Back-End Development.<br>👯 I’m looking to collaborate on: Open-Source Projects.<br>🤝 I can help you with: My Specialty(RESTful API's).<br>🌱 I’m currently learning: Flask and FastAPI.<br>💬 Ask me about: Python 🐍 & It's Web Frameworks.<br>⚡ Fun fact: I have LAZINESS Type & Love 🎧.
-
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryyp_rp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-partovi1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pparsapartovi13@gmail.com) 
 
 # 💻 Tech Stack:
