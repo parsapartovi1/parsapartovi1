@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./parsa-dino.gif"
+    src="./parsa-dinoo.gif"
     width="100%"
     alt="Parsa Partovi backend developer journey"
   />
