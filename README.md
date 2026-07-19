@@ -1,14 +1,10 @@
-<div align="center">
-
-# Parsa Partovi
-
-### Django · Python · Back-end Developer
-
-<a href="YOUR-PAGES-URL">
-  <strong>▶ View my animated backend-development journey</strong>
-</a>
-
-</div>
+<p align="center">
+  <img
+    src="./parsa-dino.gif"
+    width="100%"
+    alt="Parsa Partovi backend developer journey"
+  />
+</p>
 
 ## 🌐 Socials
 
