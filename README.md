@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Parsa Partovi backend journey](./preview.gif)](YOUR_GITHUB_PAGES_URL)
+# Parsa Partovi
 
-## Parsa Partovi
+### Django · Python · Back-end Developer
 
-**Django · Python · Back-end Developer**
-
-Click the animation to open the interactive version.
+<a href="YOUR-PAGES-URL">
+  <strong>▶ View my animated backend-development journey</strong>
+</a>
 
 </div>
 
